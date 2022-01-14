@@ -1,0 +1,139 @@
+{
+	"BUILD_DIR" : "/home/knockinn/QtWorkspace/snake/build/SNAKE_autogen",
+	"CMAKE_BINARY_DIR" : "/home/knockinn/QtWorkspace/snake/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/knockinn/QtWorkspace/snake/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/knockinn/QtWorkspace/snake",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/knockinn/QtWorkspace/snake",
+	"HEADERS" : 
+	[
+		[
+			"/home/knockinn/QtWorkspace/snake/common_view.h",
+			"MU",
+			"EWIEGA46WW/moc_common_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game.h",
+			"MU",
+			"EWIEGA46WW/moc_game.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game_mode_info_view.h",
+			"MU",
+			"EWIEGA46WW/moc_game_mode_info_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game_mode_view.h",
+			"MU",
+			"EWIEGA46WW/moc_game_mode_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game_over_view.h",
+			"MU",
+			"EWIEGA46WW/moc_game_over_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game_unit.h",
+			"MU",
+			"EWIEGA46WW/moc_game_unit.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/game_view.h",
+			"MU",
+			"EWIEGA46WW/moc_game_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/graph_view.h",
+			"MU",
+			"EWIEGA46WW/moc_graph_view.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/layout_item.h",
+			"MU",
+			"EWIEGA46WW/moc_layout_item.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/log.h",
+			"MU",
+			"EWIEGA46WW/moc_log.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/snake_unit.h",
+			"MU",
+			"EWIEGA46WW/moc_snake_unit.cpp"
+		],
+		[
+			"/home/knockinn/QtWorkspace/snake/textedit_item.h",
+			"MU",
+			"EWIEGA46WW/moc_textedit_item.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/knockinn/QtWorkspace/snake/build/SNAKE_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/knockinn/QtWorkspace/snake/build/SNAKE_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/knockinn/QtWorkspace/snake/build",
+		"/home/knockinn/QtWorkspace/snake",
+		"/opt/Qt5.12.10/5.12.10/gcc_64/include",
+		"/opt/Qt5.12.10/5.12.10/gcc_64/include/QtWidgets",
+		"/opt/Qt5.12.10/5.12.10/gcc_64/include/QtGui",
+		"/opt/Qt5.12.10/5.12.10/gcc_64/include/QtCore",
+		"/opt/Qt5.12.10/5.12.10/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/knockinn/QtWorkspace/snake/build/SNAKE_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/knockinn/QtWorkspace/snake/build/CMakeFiles/SNAKE_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/opt/Qt5.12.10/5.12.10/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/opt/Qt5.12.10/5.12.10/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/knockinn/QtWorkspace/snake/build/CMakeFiles/SNAKE_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/knockinn/QtWorkspace/snake/game.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/game_mode_info_view.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/game_mode_view.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/game_over_view.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/game_unit.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/game_view.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/graph_view.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/layout_item.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/main.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/snake_unit.cpp", "MU" ],
+		[ "/home/knockinn/QtWorkspace/snake/textedit_item.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

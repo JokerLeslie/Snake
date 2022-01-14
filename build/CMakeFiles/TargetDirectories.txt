@@ -1,0 +1,4 @@
+/home/knockinn/QtWorkspace/snake/build/CMakeFiles/edit_cache.dir
+/home/knockinn/QtWorkspace/snake/build/CMakeFiles/rebuild_cache.dir
+/home/knockinn/QtWorkspace/snake/build/CMakeFiles/SNAKE.dir
+/home/knockinn/QtWorkspace/snake/build/CMakeFiles/SNAKE_autogen.dir
